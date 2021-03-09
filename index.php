@@ -39,6 +39,7 @@
             <li>The purpose of this notice is to document the student's violation.</li>
             <li>Please inform the student that he/she can appeal the violation notice to the Discipline office within 48 hours upon issuance, failure to do so, would mean acceptance of liability.</li>
             <li>Please confirm the informations below to the student before submitting.</li>
+            <li>The information that you will put here will only be visible from the discipline office. E.g. staff id and staff name</li>
           </ol>
       </div>
 
